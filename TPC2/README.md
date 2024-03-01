@@ -30,7 +30,6 @@
 
 
 5. **Instruções de Uso:**
-    - Certifique-se de ter o Python instalado em seu sistema.
     - Execute o script sem argumentos, ele vai usar uma string de testes *hard-coded*: 
     ```
     python3 main.py
