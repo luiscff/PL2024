@@ -1,0 +1,62 @@
+[
+    {
+        "cod": "A23",
+        "nome": "água 0.5L",
+        "quant": 6,
+        "preco": 0.7
+    },
+    {
+        "cod": "A24",
+        "nome": "água 1.5L",
+        "quant": 5,
+        "preco": 1.2
+    },
+    {
+        "cod": "A25",
+        "nome": "coca-cola 0.5L",
+        "quant": 4,
+        "preco": 1.2
+    },
+    {
+        "cod": "A26",
+        "nome": "coca-cola 1.5L",
+        "quant": 3,
+        "preco": 2.2
+    },
+    {
+        "cod": "A27",
+        "nome": "sumol 0.5L",
+        "quant": 6,
+        "preco": 0.8
+    },
+    {
+        "cod": "A28",
+        "nome": "sumol 1.5L",
+        "quant": 2,
+        "preco": 1.5
+    },
+    {
+        "cod": "A29",
+        "nome": "cerveja 0.5L",
+        "quant": 7,
+        "preco": 1.0
+    },
+    {
+        "cod": "A30",
+        "nome": "cerveja 1.5L",
+        "quant": 1,
+        "preco": 1.8
+    },
+    {
+        "cod": "A31",
+        "nome": "vinho 0.5L",
+        "quant": 9,
+        "preco": 1.5
+    },
+    {
+        "cod": "A32",
+        "nome": "vinho 1.5L",
+        "quant": 0,
+        "preco": 2.5
+    }
+]
