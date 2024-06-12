@@ -8,5 +8,5 @@ Repositório usado para os Trabalhos de casa da UC Processamento de Linguagens d
 
 - Número: a100549
 - Nome: Luís Carlos Fragoso Figueiredo
-- Foto: 
+
 ![Fotografia do aluno](Photo.png)
