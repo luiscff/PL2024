@@ -5,7 +5,7 @@
 
 ## Resumo
 
-Este trabalho consiste em fazer uma GIC (gramática independente de contexto) para representar expressaoessões aritméticas e lógicas simples. A gramática é composta por terminais, não-terminais e regras de produção, que descrevem como as expressaoessões podem ser formadas. 
+Este trabalho consiste em fazer uma GIC (gramática independente de contexto) para representar expressões aritméticas e lógicas simples. A gramática é composta por terminais, não-terminais e regras de produção, que descrevem como as expressões podem ser formadas. 
 
 ### Expressaoessões exemplo
 
